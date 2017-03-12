@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeIt.Test", "TimeIt\TimeIt.Test.csproj", "{4BC80854-07D5-4A1A-B62B-3F1BEAAEC840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeIt.Lib", "TimeIt.Lib\TimeIt.Lib.csproj", "{BBD2CD4B-B640-408B-8962-3D5901D91819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC80854-07D5-4A1A-B62B-3F1BEAAEC840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC80854-07D5-4A1A-B62B-3F1BEAAEC840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC80854-07D5-4A1A-B62B-3F1BEAAEC840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC80854-07D5-4A1A-B62B-3F1BEAAEC840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD2CD4B-B640-408B-8962-3D5901D91819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD2CD4B-B640-408B-8962-3D5901D91819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD2CD4B-B640-408B-8962-3D5901D91819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD2CD4B-B640-408B-8962-3D5901D91819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
